@@ -1,0 +1,18 @@
+{
+    "metadane": {
+        "id_sprawy": "SOC/05",
+        "kategoria": "zasilek_okresowy",
+        "data_wplywu": "2026-05-15"
+    },
+    "stan_faktyczny": {
+        "wnioskodawca": "Krzysztof Maj",
+        "powod": "dlugotrwale bezrobocie",
+        "czas_bez_pracy": "14 miesiecy"
+    },
+    "proces_rozumowania": {
+        "wymogi_ustawowe": true,
+        "okres_wyplaty": "6 miesiecy",
+        "decyzja": "pozytywna"
+    },
+    "podstawy_prawne": []
+}

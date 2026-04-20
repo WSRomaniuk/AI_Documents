@@ -1,0 +1,37 @@
+[
+    {
+        "data": "2026-04-11 18:19:15",
+        "uzytkownik": "Urzednik_01",
+        "kategoria": "stypendium_socjalne",
+        "id_sprawy": "STYP/2026/001",
+        "dokument": "Uzasadnienie decyzji:\n\n**Stan faktyczny**\n\nWynikiem analizy wniosku o udzielenie pomocy publicznej jest odróżniająca sytuacja wnioskodawcy, Jan Kowalskiego. Według podanych danych, jego rodzina dysponuje miesięcznie dochodem w wysokości 4500,00 PLN i składa się z 3 członków.\n\n**Analiza**\n\nPodczas analizy wniosku uwzględniono kryteria przyznawania pomocy publicznej. W tym przypadku, dochód rodziny Jan Kowalskiego jest wyższy niż maksymalnie dozwolony w ramach wskaźnika dochodu na osobę, który wynosi 1500,00 PLN. Taka sytuacja oznacza, że wnioskodawca nie spełnia warunków przyznania pomocy publicznej.\n\n**Wnioski**\n\nWobec powyższych argumentów, decyzją jest odmowa udzielenia pomocy publicznej Janowi Kowalskiemu. Odmowa wynika z faktu, że wnioskodawca nie spełnia warunków przyznania pomocy publicznej, tj. nie ma dochodu na osobę poniżej maksymalnie dozwolonego poziomu."
+    },
+    {
+        "data": "2026-04-11 18:40:34",
+        "uzytkownik": "Urzednik_Jan",
+        "kategoria": "stypendium_socjalne",
+        "id_sprawy": "STYP/2026/001",
+        "dokument": "Rozważenie wniosku Jana Kowalskiego z uwagi na jego sytuację materialną.\n\n**Stan faktyczny:**\nWnioskodawca, Jan Kowalski, jest studentem znajdującym się w trudnej sytuacji materialnej. Jego rodzina osiąga dochód w wysokości 4500.0 zł rocznie, co oznacza, że jego dochód na osobę wynosi 1500.0 zł. Taka sytuacja jest znacznie niższa od ustawowego progu, który wynosi 1296.0 zł.\n\n**Analiza:**\nWnioskodawca nie spełnia warunków do uzyskania stypendium socjalnego, ponieważ jego dochód na osobę przekracza ustawowy próg. Podczas analizy sytuacji materialnej wnioskodawcy, nie stwierdzono żadnych szczególnych okoliczności, które mogłyby mieć wpływ na wyrok.\n\n**Podstawa prawna:**\nZgodnie z Art. 86 ust. 1 Ustawy o szkolnictwie wyższym, stypendium socjalne może zostać przyznane studentowi znajdującemu się w trudnej sytuacji materialnej. Wnioskodawca nie spełnia tej warunki, ponieważ jego sytuacja materialna nie jest trudniejsza niż ogólna.\n\n**Wnioski:**\nWynikiem analizy wniosku Jana Kowalskiego jest odmowa przyznania stypendium socjalnego. Wnioskodawca nie spełnia warunków do uzyskania tego wsparcia, ponieważ jego dochód na osobę przekracza ustawowy próg."
+    },
+    {
+        "data": "2026-04-12 22:58:48",
+        "uzytkownik": "Urzednik67",
+        "kategoria": "pozwolenie_na_budowe",
+        "id_sprawy": "BUD/2026/089",
+        "dokument": "Raport inspekcyjny nr [nr raportu] dotyczący obiektu budowlanego złożonego przez Firma Budowlana Januszex Sp. z o.o.\n\nW ramach pełnienia obowiązków inspektora nadzoru budowlanego, przeprowadziłem analizę parametrów technicznych złożenia. W wyniku prowadzonej analizy, stwierdzam następujące uchybienia:\n\n* Brak danych dotyczących liczby osób i dochodu rodziny wnioskodawcy, co stanowi uchybienie w zakresie podstawowych parametrów technicznych.\n* Wartości dochodu na osobę i ustawowego progu są równowarte 0.0 zł, co wskazuje brak istotności dla projektu budowlanego.\n\nWynikiem analizy jest stwierdzenie, że wnioskodawca Firma Budowlana Januszex Sp. z o.o. spełnił warunki Art. 28 Prawa Budowlanego, tj. uzyskał decyzję POZYTYWNĄ na budowę.\n\nPodstawa prawną do cytowania:\n\n\"Art. 28 Prawo Budowlane: Roboty budowlane można rozpocząć jedynie na podstawie decyzji o pozwoleniu na budowę.\"\n\nWyniki inspekcji i stwierdzenia uchybień będą wykorzystywane w dalszej fazie procedury nadzoru budowlanego.\n\nZakończenie raportu:\n\nRaport nr [nr raportu] został sporządzony zgodnie ze specyfikacją techniczną i wymaganiami prawnymi."
+    },
+    {
+        "data": "2026-04-14 16:07:34",
+        "uzytkownik": "Urzednik_Jasiek",
+        "kategoria": "stypendium_socjalne",
+        "id_sprawy": "STYP/2026/001",
+        "dokument": "Raport inspekcyjny nr [nr raportu] dotyczący obiektu budowlanego złożonego przez Firma Budowlana Januszex Sp. z o.o.\n\nW ramach pełnienia obowiązków inspektora nadzoru budowlanego, przeprowadziłem analizę parametrów technicznych złożenia. W wyniku prowadzonej analizy, stwierdzam następujące uchybienia:\n\n* Brak danych dotyczących liczby osób i dochodu rodziny wnioskodawcy, co stanowi uchybienie w zakresie podstawowych parametrów technicznych.\n* Wartości dochodu na osobę i ustawowego progu są równowarte 0.0 zł, co wskazuje brak istotności dla projektu budowlanego.\n\nWynikiem analizy jest stwierdzenie, że wnioskodawca Firma Budowlana Januszex Sp. z o.o. spełnił warunki Art. 28 Prawa Budowlanego, tj. uzyskał decyzję POZYTYWNĄ na budowę.\n\nPodstawa prawną do cytowania:\n\n\"Art. 28 Prawo Budowlane: Roboty budowlane można rozpocząć jedynie na podstawie decyzji o pozwoleniu na budowę.\"\n\nWyniki inspekcji i stwierdzenia uchybień będą wykorzystywane w dalszej fazie procedury nadzoru budowlanego.\n\nZakończenie raportu:\n\nRaport nr [nr raportu] został sporządzony zgodnie ze specyfikacją techniczną i wymaganiami prawnymi."
+    },
+    {
+        "data": "2026-04-16 16:54:56",
+        "uzytkownik": "123",
+        "kategoria": "stypendium_socjalne",
+        "id_sprawy": "STYP/2026/001",
+        "dokument": "Wyzwanie, które przed nami stoi, to wyznaczenie stypendium socjalnego dla wnioskodawcy, Jana Kowalskiego. W celu podjęcia decyzji, należy dokładnie analizować stan faktyczny i wyniki algorytmu decyzyjnego.\n\nStan faktyczny:\nWnioskodawca Jan Kowalski ma dochód miesięczny rodziny w wysokości 4500.00 PLN, a liczba członków rodziny wynosi 3. Dochód na osobę wynosi 1500.00 PLN. Wynika z tego, że wnioskodawca znajduje się w trudnej sytuacji materialnej.\n\nAnaliza:\nAlgorytm decyzyjny wykazał, że dochód rodziny przekracza próg ustawowy o 204.00 PLN, co prowadzi do odmowy stypendium socjalnego. Jednak, przedsiębiorczość wyróżnia się tym, że wnioskodawca znajduje się w sytuacji materialnej, która wymaga wsparcia.\n\nPodstawa prawna:\nArt. 86 ust. 1 Ustawy o szkolnictwie wyższym stanowi, że stypendium socjalne może otrzymać student znajdujący się w trudnej sytuacji materialnej. W niesamowitym wniosku Jana Kowalskiego zgodnie z tym artykułem.\n\nWnioski:\nMając na uwadze fakt, że wnioskodawca znajduje się w trudnej sytuacji materialnej i przekroczył próg ustawowy o 204.00 PLN, a także Art. 86 ust. 1 Ustawy o szkolnictwie wyższym, które określa warunki przyznawania stypendium socjalnego, decyzja powinna brzmieć: POZYTYWNA."
+    }
+]

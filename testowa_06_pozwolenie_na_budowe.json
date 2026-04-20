@@ -1,0 +1,18 @@
+{
+    "metadane": {
+        "id_sprawy": "BUD/01",
+        "kategoria": "pozwolenie_na_budowe",
+        "data_wplywu": "2026-05-15"
+    },
+    "stan_faktyczny": {
+        "inwestor": "Developer S.A.",
+        "obiekt": "biurowiec",
+        "mpzp": "zgodne"
+    },
+    "proces_rozumowania": {
+        "kompletnosc_wniosku": true,
+        "ocena_techniczna": "pozytywna",
+        "decyzja": "pozytywna"
+    },
+    "podstawy_prawne": []
+}

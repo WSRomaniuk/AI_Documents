@@ -1,0 +1,19 @@
+{
+    "metadane": {
+        "id_sprawy": "BUD/03",
+        "kategoria": "zmiana_uzytkowania",
+        "data_wplywu": "2026-05-15"
+    },
+    "stan_faktyczny": {
+        "inwestor": "Janina Kowalczyk",
+        "stan_obecny": "mieszkanie",
+        "stan_planowany": "przedszkole",
+        "warunki_pozarowe": "brak dostosowania"
+    },
+    "proces_rozumowania": {
+        "zgodnosc_BHP": false,
+        "ryzyko": "wysokie",
+        "decyzja": "negatywna"
+    },
+    "podstawy_prawne": []
+}

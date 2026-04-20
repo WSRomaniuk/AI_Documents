@@ -1,0 +1,20 @@
+{
+  "metadane": {
+    "id_sprawy": "STYP/2026/001",
+    "kategoria": "stypendium_socjalne",
+    "data_wplywu": "2026-04-10"
+  },
+  "stan_faktyczny": {
+    "wnioskodawca": "Jan Kowalski",
+    "dochod_miesieczny_rodziny": 4500.00,
+    "liczba_czlonkow_rodziny": 3,
+    "dochod_na_osobe": "1500.00"
+  },
+  "proces_rozumowania": {
+    "prog_dochodowy_ustawowy": 1296.00,
+    "przekroczenie_progu": true,
+    "kwota_przekroczenia": 204.00,
+    "decyzja_algorytmu": "odmowa"
+  },
+  "podstawy_prawne": []
+}

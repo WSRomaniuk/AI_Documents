@@ -1,0 +1,19 @@
+{
+    "metadane": {
+        "id_sprawy": "SOC/02",
+        "kategoria": "zasilek_staly",
+        "data_wplywu": "2026-05-15"
+    },
+    "stan_faktyczny": {
+        "wnioskodawca": "Anna Nowak",
+        "wiek": 68,
+        "zdolnosc_do_pracy": "calkowita niezdolnosc",
+        "dochod": 400
+    },
+    "proces_rozumowania": {
+        "kryterium_wiekowe": true,
+        "kryterium_dochodowe": true,
+        "decyzja": "pozytywna"
+    },
+    "podstawy_prawne": []
+}

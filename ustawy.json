@@ -1,0 +1,23 @@
+[
+  { 
+    "id": "pb_28", 
+    "kategoria": "pozwolenie_na_budowe", 
+    "tekst": "Art. 28 Prawa budowlanego: Roboty budowlane można rozpocząć jedynie na podstawie decyzji o pozwoleniu na budowę, z zastrzeżeniem wyjątków." 
+  },
+  { "id": "pb_31", "kategoria": "rozbiorka_obiektu", "tekst": "Art. 31 Prawa budowlanego: Pozwolenia nie wymaga rozbiórka budynków i budowli niewpisanych do rejestru zabytków oraz nieobjętych ochroną konserwatorską, o wysokości poniżej 8 m." },
+  { "id": "pb_71", "kategoria": "zmiana_uzytkowania", "tekst": "Art. 71 Prawa budowlanego: Przez zmianę sposobu użytkowania obiektu budowlanego rozumie się w szczególności podjęcie w nim działalności zmieniającej warunki bezpieczeństwa pożarowego lub pracy." },
+  { "id": "pb_33", "kategoria": "dokumentacja_budowlana", "tekst": "Art. 33 Prawa budowlanego: Do wniosku o pozwolenie na budowę należy dołączyć cztery egzemplarze projektu budowlanego oraz oświadczenie o prawie do dysponowania nieruchomością na cele budowlane." },
+  { "id": "pb_48", "kategoria": "samowola_budowlana", "tekst": "Art. 48 Prawa budowlanego: Organ nadzoru budowlanego nakazuje, w drodze decyzji, rozbiórkę obiektu budowlanego, lub jego części, będącego w budowie albo wybudowanego bez wymaganego pozwolenia na budowę." },
+  
+  { "id": "ps_39", "kategoria": "zasilek_celowy", "tekst": "Art. 39 Ustawy o pomocy społecznej: Zasiłek celowy może być przyznany w celu zaspokojenia niezbędnej potrzeby bytowej, w szczególności na pokrycie kosztów żywności, leków, opału i odzieży." },
+  { "id": "ps_37", "kategoria": "zasilek_staly", "tekst": "Art. 37 Ustawy o pomocy społecznej: Zasiłek stały przysługuje pełnoletniej osobie samotnie gospodarującej, niezdolnej do pracy z powodu wieku lub całkowicie niezdolnej do pracy, jeżeli jej dochód jest niższy od kryterium dochodowego." },
+  { "id": "ps_40", "kategoria": "zasilek_okresowy", "tekst": "Art. 40 Ustawy o pomocy społecznej: Zasiłek okresowy przysługuje w szczególności ze względu na długotrwałą chorobę, niepełnosprawność lub bezrobocie." },
+  { "id": "ed_86", "kategoria": "stypendium_socjalne", "tekst": "Art. 86 Ustawy o szkolnictwie wyższym: Stypendium socjalne może otrzymać student znajdujący się w trudnej sytuacji materialnej, którego miesięczny dochód na osobę nie przekracza progu." },
+  { "id": "ed_89", "kategoria": "stypendium_niepelnosprawni", "tekst": "Art. 89 Ustawy o szkolnictwie wyższym: Stypendium dla osób niepełnosprawnych może otrzymać student posiadający orzeczenie o niepełnosprawności, niezależnie od dochodu." },
+
+  { "id": "kpa_104", "kategoria": "decyzja_ogolna", "tekst": "Art. 104 KPA: Organ administracji publicznej załatwia sprawę przez wydanie decyzji. Decyzja rozstrzyga sprawę co do jej istoty." },
+  { "id": "kpa_107", "kategoria": "uzasadnienie_decyzji", "tekst": "Art. 107 KPA: Uzasadnienie faktyczne powinno zawierać wskazanie faktów, które organ uznał za udowodnione, oraz przyczyn, z powodu których innym dowodom odmówił wiarygodności." },
+  { "id": "kpa_7", "kategoria": "prawda_obiektywna", "tekst": "Art. 7 KPA: W toku postępowania organy administracji publicznej stoją na straży praworządności, z urzędu lub na wniosek stron podejmując wszelkie kroki niezbędne do wyjaśnienia stanu faktycznego." },
+  { "id": "kpa_8", "kategoria": "zasada_zaufania", "tekst": "Art. 8 KPA: Organy administracji publicznej prowadzą postępowanie w sposób budzący zaufanie jego uczestników do władzy publicznej." },
+  { "id": "ew_1", "kategoria": "wymeldowanie", "tekst": "Art. 35 Ustawy o ewidencji ludności: Organ gminy wydaje decyzję w sprawie wymeldowania obywatela polskiego, który opuścił miejsce pobytu stałego i nie dopełnił obowiązku wymeldowania się." }
+]

@@ -1,0 +1,18 @@
+{
+    "metadane": {
+        "id_sprawy": "SOC/03",
+        "kategoria": "stypendium_socjalne",
+        "data_wplywu": "2026-05-15"
+    },
+    "stan_faktyczny": {
+        "wnioskodawca": "Piotr Wisniewski",
+        "uczelnia": "Politechnika",
+        "dochod_na_osobe": 1800
+    },
+    "proces_rozumowania": {
+        "prog_dochodowy": 1300,
+        "przekroczenie": true,
+        "decyzja": "negatywna"
+    },
+    "podstawy_prawne": []
+}

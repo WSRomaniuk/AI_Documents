@@ -1,0 +1,19 @@
+{
+    "metadane": {
+        "id_sprawy": "BUD/02",
+        "kategoria": "rozbiorka_obiektu",
+        "data_wplywu": "2026-05-15"
+    },
+    "stan_faktyczny": {
+        "inwestor": "Gmina Miejska",
+        "obiekt": "stara stodola",
+        "wysokosc": "6 metrow",
+        "zabytek": false
+    },
+    "proces_rozumowania": {
+        "wymog_pozwolenia": false,
+        "wystarczy_zgloszenie": true,
+        "decyzja": "umorzenie_postepowania"
+    },
+    "podstawy_prawne": []
+}

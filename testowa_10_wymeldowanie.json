@@ -1,0 +1,17 @@
+{
+    "metadane": {
+        "id_sprawy": "ADM/01",
+        "kategoria": "wymeldowanie",
+        "data_wplywu": "2026-05-15"
+    },
+    "stan_faktyczny": {
+        "strona": "Tomasz Lis",
+        "przebywanie_pod_adresem": false,
+        "okres_nieobecnosci": "powyzej 3 lat"
+    },
+    "proces_rozumowania": {
+        "przeslanki_ustawowe": true,
+        "decyzja": "wymeldowanie_z_urzedu"
+    },
+    "podstawy_prawne": []
+}

@@ -1,0 +1,18 @@
+{
+    "metadane": {
+        "id_sprawy": "SOC/04",
+        "kategoria": "stypendium_niepelnosprawni",
+        "data_wplywu": "2026-05-15"
+    },
+    "stan_faktyczny": {
+        "wnioskodawca": "Ewa Lis",
+        "stopien_niepelnosprawnosci": "umiarkowany",
+        "dochod": 5000
+    },
+    "proces_rozumowania": {
+        "waznosc_orzeczenia": true,
+        "zaleznosc_od_dochodu": false,
+        "decyzja": "pozytywna"
+    },
+    "podstawy_prawne": []
+}

@@ -1,0 +1,18 @@
+{
+  "metadane": {
+    "id_sprawy": "BUD/2026/089",
+    "kategoria": "pozwolenie_na_budowe",
+    "data_wplywu": "2026-05-12"
+  },
+  "stan_faktyczny": {
+    "inwestor": "Firma Budowlana Januszex Sp. z o.o.",
+    "rodzaj_inwestycji": "Budynek wielorodzinny",
+    "zgodnosc_z_planem_zagospodarowania": true
+  },
+  "proces_rozumowania": {
+    "kompletnosc_dokumentacji": true,
+    "ocena_ryzyka": "niskie",
+    "decyzja_algorytmu": "pozytywna"
+  },
+  "podstawy_prawne": []
+}

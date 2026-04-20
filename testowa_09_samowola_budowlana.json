@@ -1,0 +1,18 @@
+{
+    "metadane": {
+        "id_sprawy": "BUD/04",
+        "kategoria": "samowola_budowlana",
+        "data_wplywu": "2026-05-15"
+    },
+    "stan_faktyczny": {
+        "wlasciciel": "Michal Kot",
+        "obiekt": "garaz murowany",
+        "pozwolenie": "brak"
+    },
+    "proces_rozumowania": {
+        "stan_faktyczny": "potwierdzony",
+        "mozliwosc_legalizacji": false,
+        "decyzja": "nakaz_rozbiorki"
+    },
+    "podstawy_prawne": []
+}

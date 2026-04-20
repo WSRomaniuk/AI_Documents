@@ -1,0 +1,19 @@
+{
+    "metadane": {
+        "id_sprawy": "SOC/01",
+        "kategoria": "zasilek_celowy",
+        "data_wplywu": "2026-05-15"
+    },
+    "stan_faktyczny": {
+        "wnioskodawca": "Jan Kowalski",
+        "cel": "zakup opa\u0142u na zim\u0119",
+        "sytuacja": "pozar domu",
+        "dochod": 1200
+    },
+    "proces_rozumowania": {
+        "kwalifikacja": true,
+        "kwota_przyznana": 1500,
+        "decyzja": "pozytywna"
+    },
+    "podstawy_prawne": []
+}
